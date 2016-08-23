@@ -1,4 +1,3 @@
-layout_spectrum: 0.32094603800214827
 typography_spectrum: 0.6432702590245754
 color:
   brandStrength: 0.15211293939501047
@@ -11,4 +10,6 @@ color:
     - '#BCAB47'
     - '#6B574B'
     - '#160600'
+layout_spectrum: 0.32094603800214827
 name: 'Alex J Kramer '
+title: Alex J Kramer
